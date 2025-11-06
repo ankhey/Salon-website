@@ -31,6 +31,7 @@ Clare Salon offers personalized beauty services, combining expert styling with a
 ├── /images              # All image assets (gallery, backgrounds, icons)
 └── README.md            # Project documentation (this file)
 ```
+view project @ https://salon.brimacomm.top/
 
 ## 🚀 Getting Started
 1. **Clone or Download** this repository to your local machine.
